@@ -1,0 +1,8 @@
+
+State Machine - |lab6|controller:c0|current_state
+Name current_state.S_Load_y_c_wait current_state.S_Load_y_c current_state.S_Load_x_wait current_state.S_Load_x current_state.S_Draw 
+current_state.S_Load_x 0 0 0 0 0 
+current_state.S_Load_x_wait 0 0 1 1 0 
+current_state.S_Load_y_c 0 1 0 1 0 
+current_state.S_Load_y_c_wait 1 0 0 1 0 
+current_state.S_Draw 0 0 0 1 1 

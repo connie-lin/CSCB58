@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at lab6.v(272): always construct contains both blocking and non-blocking assignments File: /courses/courses/cscb58w20/hasimon/6/lab6-part2/lab6.v Line: 272
